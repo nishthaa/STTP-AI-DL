@@ -194,3 +194,6 @@ print(f'Test Loss: {test_loss:.3f} | Test Acc: {test_acc*100:.2f}%')
 
 
 
+## References::
+
+#https://github.com/bentrevett/pytorch-sentiment-analysis
