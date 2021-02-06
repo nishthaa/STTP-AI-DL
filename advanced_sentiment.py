@@ -238,3 +238,7 @@ def predict_sentiment(model, sentence):
     return prediction.item()
 
 predict_sentiment(model, "This film is terrible")
+
+
+## References::
+#https://github.com/bentrevett/pytorch-sentiment-analysis
